@@ -2,7 +2,7 @@
 title: "Translation, cross-cultural adaptation and validation of the Computer Vision Syndrome Questionnaire into Persian (CVS-Q FA ©)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2021-10-01
 venue: 'Int Ophthalmol.'
 paperurl: 'http://MiladQolami.github.io/files/paper2.pdf'
