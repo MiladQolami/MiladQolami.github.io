@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Prevalence of Computer Vision Syndrome Among Iranian Medical University Employees and Graduate Students in their Occupational Environment"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Func. Disabil. J.'
+paperurl: 'http://MiladQolami.github.io/files/paper1.pdf'
+citation: 'Qolami M, Cantó-Sancho N, Seguí-Crespo M, Ronda-Pérez E, Mirzajani A, Taghizade G. Prevalence of Computer Vision Syndrome Among Iranian Medical University Employees and Graduate Students in their Occupational Environment. Func Disabil J. 2020; 3 (1) :151-160'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://Miladqolami.github.io/files/paper1.pdf)
+
+Recommended citation: Qolami M, Cantó-Sancho N, Seguí-Crespo M, Ronda-Pérez E, Mirzajani A, Taghizade G. Prevalence of Computer Vision Syndrome Among Iranian Medical University Employees and Graduate Students in their Occupational Environment. Func Disabil J. 2020; 3 (1) :151-160.
