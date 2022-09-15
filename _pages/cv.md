@@ -9,32 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education and academic history
 ======
-* Research assistant involved in national Parkinson’s disease (PD) project, Royan Institute 2021-present
+* Research assistant involved in national Parkinson’s disease (PD) project, Royan Institute, 2021-present
 * Technical assistant in BCol lab (working on object recognition in higher visual cortex in Macaque), IPM school of cognitive sciences, December 2020 – August 2021
-* M.S. in Optomery, Iran University of Medical Sciences, 2014
+* M.S. in Optomery, Iran University of Medical Sciences, 2020
 * B.S. in Optometry, Mashhad University of Medical Sciences, 2016
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
 * Electrophysiological recordings (EEG and single-unit)
 * Lab's animal handling and training (monkeys).
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Data analysis and task design in Matlab and related toolboxes (Psychtoolbox, MonkeyLogic etc.).
 * Working with eye tracking systems in humans and animals
 * Statistical analysis with R programming language
