@@ -1,16 +1,5 @@
 ---
-layout: archive
-title: "Projects"
-permalink: /projects/
-author_profile: true
+layout: "archive"
 ---
 
-{% include base_path %}
-
-
-
-
-
-Education and academic history
-======
-* Research assistant involved in national Parkinson’s disease (PD) project, Royan Institute, 2021-present
+This page contians my projects
