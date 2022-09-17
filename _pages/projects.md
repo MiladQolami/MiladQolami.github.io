@@ -6,7 +6,7 @@ title: Projects
 
 1- Decoding perceptual stimuli from EEG signal recorded from Macaque's brain
 ===
-In recent years decoding methods have been a common approch in  analysis of neural time series such as EEG and MEG. Many researchers have used thses techniques in brain computer interface (BCI) studies, but this approach is a valuabe tool by itself to know how much information a particular signal contians. Decoding methods have been used in human subjects but to the best of my knowledge it has not been used in non-human primates (NHPs) such as macaque monkeys to decode EEG signal. The aim of this study is to record EEG signal from macaque's brain in response to visual stimuli (face and non-face) and using decoding approches to see how much information the EEG signal contains and to bridge the gap in finding in human and NHP studies.
+In recent years decoding methods have been a common approch in  analysis of neural time series such as EEG and MEG. Many researchers have used thses techniques in brain computer interface (BCI) studies, but this approach is a valuabe tool by itself to know how much information a particular signal contians. Decoding methods have been used in human subjects but to the best of my knowledge it has not been used in non-human primates (NHPs) such as macaque monkeys to decode cognitive of perceptual states from EEG signals. The aim of this study is to record EEG signal from macaque's brain in response to visual stimuli (face and non-face) and using decoding approches to see how much information the EEG signal contains and to bridge the gap in finding in human and NHP studies.
 
 ![Decoding paradiam of EEG signal](/images/EEG-Decoding.jpg)
 
