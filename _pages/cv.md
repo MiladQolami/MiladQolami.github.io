@@ -11,6 +11,8 @@ redirect_from:
 
 
 
+
+
 Education and academic history
 ======
 * Research assistant involved in national Parkinson’s disease (PD) project, Royan Institute, 2021-present

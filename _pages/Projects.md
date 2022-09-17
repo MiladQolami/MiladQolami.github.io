@@ -11,4 +11,5 @@ redirect_from:
 
 
 
-Education and academic history
+Decoding perceptual stimuli from EEG signal recorded from monkey's scalp
+=========
