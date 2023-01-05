@@ -25,10 +25,10 @@ Education and academic history
 Skills
 ======
 * Electrophysiological recordings (EEG and single-unit)
-* Lab's animal handling and training (monkeys).
-* Programming in Matlab, Python and R and related toolbexes (psychtoolbox)
+* Programming in Matlab, Python and related toolbexes (psychtoolbox)
 * Psychophysics task design
 * Statistical analysis and machine learning
+* Software skills: Photoshop, Inkscape, Mircrosoft office
 
 
 
