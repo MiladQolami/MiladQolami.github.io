@@ -45,4 +45,4 @@ group :jekyll_plugins do
   # Other plugins can go here, but make sure they are compatible with github-pages
 end
 
-gem 'tzinfo-data'
+
