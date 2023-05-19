@@ -16,17 +16,33 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# # If you have any plugins, put them here!
+# group :jekyll_plugins do
+#   # gem "jekyll-archives"
+#   gem "jekyll-feed"
+#   gem 'jekyll-sitemap'
+#   gem 'hawkins'
+# end
+# gem 'tzinfo-data'
+# #source "https://rubygems.org"
+
+
+# #gem 'github-pages', group: :jekyll_plugins
+
+
+
+
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # Other plugins can go here, but make sure they are compatible with github-pages
 end
+
 gem 'tzinfo-data'
-#source "https://rubygems.org"
-
-
-#gem 'github-pages', group: :jekyll_plugins
