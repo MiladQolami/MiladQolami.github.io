@@ -21,7 +21,7 @@ redirect_from:
 - Electrophysiological Recordings (EEG and Single-unit)
 - Programming in Matlab, Python, and related toolboxes (Psychtoolbox)
 - Psychophysics Task Design
-- Statistical Analysis and Machine Learning
+- Statistical Analysis
 - Software Skills: Photoshop, Illustrator, Microsoft Office
 
 ## Conferences, Presentations, and Workshops
